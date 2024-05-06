@@ -2,10 +2,10 @@ package com.gridnine.testing;
 
 import org.springframework.boot.SpringApplication;
 
-public class TestingApplication {
+public class Main {
 
 	public static void main(String[] args) {
-		SpringApplication.run(TestingApplication.class, args);
+		SpringApplication.run(Main.class, args);
 	}
 
 }
