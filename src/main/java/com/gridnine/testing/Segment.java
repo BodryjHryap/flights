@@ -5,7 +5,7 @@ import java.time.format.DateTimeFormatter;
 import java.util.Objects;
 
 /**
- * Bean that represents a flight segment.
+ * Компонент, представляющий собой сегмент полета.
  */
 
 public class Segment {

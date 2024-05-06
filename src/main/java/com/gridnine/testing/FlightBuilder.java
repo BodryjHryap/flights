@@ -6,7 +6,7 @@ import java.util.Arrays;
 import java.util.List;
 
 /**
- * Factory class to get sample list of flights.
+ * Класс для получения примера списка рейсов.
  */
 
 public class FlightBuilder {
